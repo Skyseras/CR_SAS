@@ -4,7 +4,9 @@
 ### 9h-12h
 
 **Présentation** Youcode & période SAS 
+
 Pédagogie Active : Enseigner/Apprendre/Former 
+
 Méthodologie Agile : Ceci offre une plus grande flexibilité et une meilleure visibilité dans la gestion du projet. Et entraîne les participants au travail en équipe et à la collaboration.
 Approche Scrum : celle-ci suit les principes de la méthodologie Agile, c'est-à-dire l'implication et la participation active du client tout au long du projet. 
 Installation de matériels informatiques : mise à jour / compte personnel 
@@ -13,8 +15,8 @@ GitHub : Un site web et un service de cloud qui aide les développeurs à stocke
 Pourquoi GitHub / Y a-t-il d'autres services ? 
 **Formation** de 5 groupes de 4 personnes. 
 Assignation des sujets de veilles : 
-⋅⋅* Git / GitHub 
-⋅⋅* GitHub vs GitLab 
+* Git / GitHub 
+* GitHub vs GitLab 
 ⋅⋅* GitHub vs BitBucket 
 ⋅⋅* GitHub vs SVN 
 ⋅⋅* GitHub vs Azure Devops
