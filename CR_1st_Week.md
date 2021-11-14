@@ -143,8 +143,10 @@ Vendredi 12/11/2021
 
 ### 9h-12h 
 
-**Stand** **up** **meeting** : récapitulatif de ce que nous avons réalisé le Jeudi 11 novembre 
-**Live** **coding** : Explication des challenges de 1 à 7 
+**Stand** **up** **meeting** : récapitulatif de ce que nous avons réalisé le Jeudi 11 novembre
+
+**Live** **coding** : Explication des challenges de 1 à 7
+
 Challenges Langage C : **Conditions** 
 ⋅⋅* Challenge 1 : Traduire l’algorithme suivant en langage C. 
 ⋅⋅* Challenge 2 : Affichage Température. 
