@@ -48,7 +48,7 @@ Utilisation des différentes commandes Git :
 
 Présentation des veilles par les leaders des groupes former auparavant. 
 
-Mardi 09/11/2021 
+## Mardi 09/11/2021 
 
 ### 9h-12h 
 
@@ -86,7 +86,7 @@ Les Commandes Linux
 
 **Live** **coding** : présentation en détail du fonctionnement du Git et GitHub. Utilisation des commandes et explication de leur utilité. 
 
-Mercredi 10/11/2021 
+## Mercredi 10/11/2021 
 
 ### 9h-12h 
 
@@ -163,7 +163,7 @@ Le tableau blanc est accompagné d’un Dashboard d’outils divers :
 * L’outil commentaire : un espace pour écrire des commentaires visibles par tous les collaborateurs 
 * L’intégration de fichiers : une fonctionnalité pour partager une image, une feuille de calcul ou un PDF pour compléter votre tableau   
 
-Jeudi 11/11/2021 
+## Jeudi 11/11/2021 
 
 ### 9h-12h 
 
@@ -181,7 +181,7 @@ Apprentissage du langage en vidéo, audio et entre collègues.
 
 Validation et partage des challenges “langage C : Variables” sur GitHub.  
 
-Vendredi 12/11/2021 
+## Vendredi 12/11/2021 
 
 ### 9h-12h 
 
